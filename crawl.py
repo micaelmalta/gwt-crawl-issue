@@ -47,4 +47,3 @@ counter = gwt.getCounter()
 total = gwt.getTotalResults()
 print "%d URL ont ete marque comme corrige sur %d" % (counter, total)
 
-#gwt.CrawlUri('http://pro.01net.com/jeux-video/jeux-gratuits-en-ligne/aventure/104913/steppenwolf-44/screenshot/')
